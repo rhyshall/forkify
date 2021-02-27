@@ -175,3 +175,4 @@ function()
 };
 
 init();
+console.log('Application is live');
